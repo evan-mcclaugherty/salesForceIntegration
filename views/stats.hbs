@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="col-sm-6">
+        <table class="table table-bordered table-striped">
+            <tr>
+                <th>Title</th>
+                <th>Minutes</th>
+                <th>Day</th>
+            </tr>
+            {{#each data}}
+                <tr>
+                    <td>{{this.title}}</td>
+                    <td>{{this.minutes}}</td>
+                    <td>{{this.day}}</td>
+                </tr>
+            {{/each}}
+        </table>
+    </div>
+</div>
