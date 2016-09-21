@@ -6,16 +6,25 @@
 ### Live site: https://sforceintegration.herokuapp.com
 
 To set up this application locally follow these steps:
-1.  Clone and npm i
-2.  Createdb salesforce
-3.  Knex migrate:latest
-4.  Edit the .envExample and rename file to .env
-5.  Nodemon!
+
+* Clone and npm i
+* Createdb salesforce
+* Knex migrate:latest
+* Edit the .envExample and rename file to .env
+* Nodemon!
+
+***
 
 ![Alt text](/images/home.png?raw=true)
 
+***
+
 ![Alt text](/images/track.png?raw=true)
 
+***
+
 ![Alt text](/images/stats.png?raw=true)
+
+***
 
 ![Alt text](/images/report.png?raw=true)
