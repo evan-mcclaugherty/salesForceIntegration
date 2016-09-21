@@ -11,3 +11,11 @@ To set up this application locally follow these steps:
 3.  Knex migrate:latest
 4.  Edit the .envExample and rename file to .env
 5.  Nodemon!
+
+![Alt text](/images/home.png?raw=true)
+
+![Alt text](/images/track.png?raw=true)
+
+![Alt text](/images/stats.png?raw=true)
+
+![Alt text](/images/report.png?raw=true)
