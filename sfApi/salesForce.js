@@ -1,7 +1,6 @@
 require('dotenv').config();
 
 var jsforce = require('jsforce');
-console.log('REDIRECT_URI', process.env.REDIRECT_URI);
 var conn = new jsforce.Connection({
     oauth2: {
         clientId: process.env.CLIENT_ID,

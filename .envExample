@@ -1,0 +1,8 @@
+USERNAME=salesforce username
+PASSWORD=salesforce org password
+CLIENT_ID=id from salesforce
+CLIENT_SECRET=secret from salesforce
+SESSION_KEY1=random seesion key 1
+SESSION_KEY2=random session key 2
+DATABASE_URL=local
+REDIRECT_URI=http://localhost
