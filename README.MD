@@ -3,7 +3,6 @@
 
 #### It demonstrates that only one salesforce license is needed for many users.
 
-### Live site: https://sforceintegration.herokuapp.com
 
 To set up this application locally follow these steps:
 
